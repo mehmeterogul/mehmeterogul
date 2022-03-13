@@ -16,7 +16,6 @@
 <a href="#"><img width="25" height="25" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/></a> 
 
 <br />
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeterogul&theme=dracula&layout=compact)
 <br />
