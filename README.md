@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I'm Mehmet 👋
 
-<!--
-**mehmeterogul/mehmeterogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Unity Game Developer
 
-Here are some ideas to get you started:
+- 🌱 I’m learning Unity since November 2020
+- 📫 How to reach me: mehmet_erogul@icloud.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me
+<a href="https://www.linkedin.com/in/mehmet-erogul/"><img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /></a> 
+<a href="https://twitter.com/MehmetErogul96"><img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" /></a>
+
+### Tech I use
+<a href="#"><img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" /></a> 
+<a href="#"><img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/></a> 
+<a href="#"><img width="25" height="25" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"/></a> 
+<a href="#"><img width="25" height="25" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/></a> 
+
+![Mehmet Erogul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmeterogul&count_private=true&show_icons=true&theme=dracula)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeterogul&theme=dracula&layout=compact)
