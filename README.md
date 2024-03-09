@@ -1,8 +1,9 @@
 ### Hi there I'm Mehmet 👋
 
-## Junior Unity Game Developer
+## Computer Science Student
 
-- 🌱 I’m learning Unity since November 2020
+- 🌱 I’m learning game development with Unity since November 2020
+- 🔧 And I also started learning web development
 - 📫 How to reach me: mehmet_erogul@icloud.com
 
 ### Contact with me
