@@ -3,7 +3,7 @@
 ## Computer Science Student
 
 - 🌱 I’m learning game development with Unity since November 2020
-- 🔧 And I also started learning web development
+- 🔧 And I also recently started learning web development
 - 📫 How to reach me: mehmet_erogul@icloud.com
 
 ### Contact with me
